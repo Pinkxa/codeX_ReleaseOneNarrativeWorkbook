@@ -18,21 +18,9 @@ You need to have node installed locally: [Node Setup](NodeSetup.md)
 
 ##Node school
 
-Now enrol to http://nodeschool.io/ by installing the ```learnyounode``` course. 
+Here are some [background information](NodeBackground.md) about some Node JS concepts.
 
-***Only complete the first 6 lessons, do the rest later.** 
-
-The first 6 lessons will serve you well for now.
-
-Install it in the command line:
-
-```npm install -g learnyounode```
-
-once done execute: ```learnyounode``` in the console and follow the instructions
-
-**remember to do only the first 6 exercises**
-
-Here are some [background information](NodeBackground.md) of concepts you would have met in Nodeschool
+Now do this [Node Tutorial](node-tutorial/README.md) - you can track your progress through by checking how many of the unit tests are passing.
 
 #Try this
 
@@ -57,5 +45,5 @@ If you feel you need some more practice with Node JS before you move on try to d
 
 #Things to come
 
-Here are a high level [overview](HighlevelOverview.md) of things to come later in this release, the details will be provided
+Here is a high level [overview](OtherOverview.md) of things to come later in this release, the details will be provided
 
