@@ -16,6 +16,7 @@ var linesInFiles = function(folderName) {
         }
         //return content.split('\n').length;
    	});
+    console.log(linesInFiles);
     return linesInFiles;
   }
 

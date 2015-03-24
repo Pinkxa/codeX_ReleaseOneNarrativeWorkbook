@@ -28,7 +28,7 @@ describe('Filter data!', function(){
                 assert.ok(false, err);
             }
             else {
-                assert.equal("4 8 22 84 94", records[0]);
+                assert.equal("[ 4, 8, 22, 84, 94 ]", records[0]);
             }
             done();
         });
